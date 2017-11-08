@@ -1,0 +1,21 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.ctc.*" />
+    <EXCLUDED_PACKAGE NAME="com.sun.*" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.*" />
+    <EXCLUDED_PACKAGE NAME="it.unimi.*" />
+    <EXCLUDED_PACKAGE NAME="java.awt.*" />
+    <EXCLUDED_PACKAGE NAME="javafx.*" />
+    <EXCLUDED_PACKAGE NAME="javax.*" />
+    <EXCLUDED_PACKAGE NAME="jdk.internal.*" />
+    <EXCLUDED_PACKAGE NAME="org.eclipse.*" />
+    <EXCLUDED_PACKAGE NAME="org.omg.*" />
+    <EXCLUDED_PACKAGE NAME="org.thymeleaf.*" />
+    <EXCLUDED_PACKAGE NAME="org.w3c.*" />
+    <EXCLUDED_PACKAGE NAME="sun.*" />
+    <EXCLUDED_PACKAGE NAME="sun.awt.*" />
+    <EXCLUDED_PACKAGE NAME="sun.swing.*" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Custom" />
+</application>
