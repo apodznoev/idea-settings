@@ -34,6 +34,14 @@
           <option name="url" value="https://github.com/apodznoev/springboot-security-probe" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/home/andrei.podznoev/ttt4" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/ttt4" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\projects\" />
