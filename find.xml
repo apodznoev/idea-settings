@@ -27,15 +27,15 @@
       <mask>java*</mask>
       <mask>*.java*</mask>
       <mask>*.java</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
