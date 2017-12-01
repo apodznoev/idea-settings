@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="GUI Resources" />
-    <option name="defaultScopeName" value="GUI Resources" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="GUI Resources" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.coffee</mask>
       <mask>*.c</mask>
@@ -12,7 +12,6 @@
       <mask>*.css</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.x</mask>
@@ -36,6 +35,7 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
