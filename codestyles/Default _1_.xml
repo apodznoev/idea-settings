@@ -1,3 +1,6 @@
 <code_scheme name="Default (1)">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
 </code_scheme>
