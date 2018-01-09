@@ -6,19 +6,12 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
       <mask>pom*</mask>
       <mask>*</mask>
       <mask>ja*</mask>
       <mask>jav*</mask>
       <mask>java*</mask>
       <mask>*.java*</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
@@ -36,6 +29,13 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.о</mask>
+      <mask>*.оф</mask>
+      <mask>*.офм</mask>
+      <mask>*.офмф</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
