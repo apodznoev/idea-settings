@@ -10,9 +10,6 @@
       <mask>*.sq</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom*</mask>
@@ -36,6 +33,9 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
