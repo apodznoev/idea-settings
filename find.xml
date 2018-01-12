@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\code\erp_logic\src\main\resources\META-INF\orm.xml [erp_logic]'" />
+    <option name="defaultScopeName" value="File '...\code\erp_logic\src\main\resources\META-INF\orm.xml [erp_logic]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\code\erp_logic\src\main\resources\META-INF\orm.xml [erp_logic]'" />
     <recentFileMasks>
       <mask>*.java*</mask>
       <mask>*.g</mask>
