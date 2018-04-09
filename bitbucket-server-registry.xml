@@ -1,6 +1,10 @@
 <application>
   <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
+    <instances>
+      <instance uuid="f62db528-04bc-4ab4-a5d5-64ad162c3e5a" baseUri="http://mucsggit01:7990/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="mucsggit01" port="7999" path="/" uuid="f62db528-04bc-4ab4-a5d5-64ad162c3e5a" />
+    </lookup>
   </component>
 </application>
