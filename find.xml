@@ -13,9 +13,9 @@
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
     <mask>Test*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
