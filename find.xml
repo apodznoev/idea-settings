@@ -20,5 +20,7 @@
     <mask>*RestController*java</mask>
     <mask>*java</mask>
     <mask>*ts</mask>
+    <mask>yarn</mask>
+    <mask>yarn.lock</mask>
   </component>
 </application>
