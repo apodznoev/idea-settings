@@ -27,5 +27,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*Value.java</mask>
   </component>
 </application>
