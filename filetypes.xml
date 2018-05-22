@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="ExternalModuleValue" type="TypeScript" />
       <mapping pattern="ShopApplicationLocalStarterCSS" type="XML" />
     </extensionMap>
