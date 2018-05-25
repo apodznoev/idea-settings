@@ -3,9 +3,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -15,7 +16,6 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*RestController*java</mask>
-    <mask>*ts</mask>
     <mask>yarn</mask>
     <mask>yarn.lock</mask>
     <mask>!*.lock</mask>
@@ -30,5 +30,6 @@
     <mask>pom.xml</mask>
     <mask>*html</mask>
     <mask>*java</mask>
+    <mask>*ts</mask>
   </component>
 </application>
