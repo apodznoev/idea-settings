@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.jsp</mask>
@@ -24,8 +22,6 @@
     <mask>*.ts</mask>
     <mask>pom-xml</mask>
     <mask>*.ftl</mask>
-    <mask>*html</mask>
-    <mask>*java</mask>
     <mask>*ts</mask>
     <mask>*.properties</mask>
     <mask>*Integration*.java</mask>
@@ -34,5 +30,7 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*Controller*.java</mask>
+    <mask>*html</mask>
+    <mask>*java</mask>
   </component>
 </application>
