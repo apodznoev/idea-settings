@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="ExternalModuleValue" type="TypeScript" />
