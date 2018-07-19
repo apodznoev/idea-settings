@@ -31,7 +31,7 @@
     <mask>*java</mask>
     <mask>*properties</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.ts</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
