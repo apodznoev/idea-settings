@@ -22,7 +22,6 @@
     <mask>pom-xml</mask>
     <mask>*.ftl</mask>
     <mask>*ts</mask>
-    <mask>*.properties</mask>
     <mask>*Integration*.java</mask>
     <mask>*.git</mask>
     <mask>*.html</mask>
@@ -34,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
