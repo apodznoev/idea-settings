@@ -28,10 +28,10 @@
     <mask>*.html</mask>
     <mask>*Controller.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>.*ts</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
