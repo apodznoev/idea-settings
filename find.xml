@@ -27,11 +27,11 @@
     <mask>*.sql</mask>
     <mask>*Controller.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>pom.xml</mask>
     <mask>.*ts</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
