@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*spec.ts" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -26,12 +29,12 @@
     <mask>*properties</mask>
     <mask>*.sql</mask>
     <mask>*Controller.ts</mask>
-    <mask>*spec.ts</mask>
     <mask>.*ts</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
