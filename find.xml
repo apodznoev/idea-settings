@@ -33,7 +33,7 @@
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
-    <mask>pom.xml</mask>
     <mask>*.html</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
