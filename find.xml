@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>Test*.java</mask>
@@ -32,9 +32,9 @@
     <mask>*spec.ts</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
