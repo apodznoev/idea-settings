@@ -29,11 +29,11 @@
     <mask>.*ts</mask>
     <mask>*spec.ts</mask>
     <mask>*Test.java</mask>
-    <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
