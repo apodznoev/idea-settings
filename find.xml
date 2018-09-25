@@ -31,9 +31,9 @@
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
-    <mask>*java</mask>
     <mask>pom.xml</mask>
     <mask>!pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*java</mask>
   </component>
 </application>
