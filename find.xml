@@ -33,7 +33,7 @@
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*properties</mask>
-    <mask>*java</mask>
     <mask>pom.xml</mask>
+    <mask>*java</mask>
   </component>
 </application>
