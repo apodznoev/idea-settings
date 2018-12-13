@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile-release-pipeline" type="Jenkins file" />
-      <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev-blau-compendium" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev-blau-compendium" type="PLAIN_TEXT" />
+      <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="snap" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="ExternalModuleValue" type="TypeScript" />
