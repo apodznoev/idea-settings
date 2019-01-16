@@ -30,10 +30,10 @@
     <mask>*.properties</mask>
     <mask>!*java</mask>
     <mask>*xml</mask>
-    <mask>*html</mask>
     <mask>pom.xml</mask>
     <mask>*ts</mask>
     <mask>*properties</mask>
     <mask>*java</mask>
+    <mask>*html</mask>
   </component>
 </application>
