@@ -1,8 +1,34 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="mucsgvpintng02-02" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="apiUrl" value="tcp://mucsgvpintng02-02.sg.de.pri.o2.com:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="localhost" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="mucsgvpintng02-05" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://mucsgvpintng02-05.sg.de.pri.o2.com:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="mucsgvpintng02-03" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://mucsgvpintng02-03.sg.de.pri.o2.com:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="mucsgvpintng02-07" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://mucsgvpintng02-07.sg.de.pri.o2.com:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="tcp://mucsgvpintng16-02.sg.de.pri.o2.com:2375" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://mucsgvpintng16-02.sg.de.pri.o2.com:2375" />
       </configuration>
     </remote-server>
   </component>
