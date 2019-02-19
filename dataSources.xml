@@ -1,0 +1,48 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="inx_quest_dev" uuid="06c642e7-b766-442a-a87d-365235c0b3c2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-dev-scs-quest.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_quest_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_quest_prod" read-only="true" single-connection="true" uuid="3508d58e-cadf-4bfa-8b7d-588a98dd1463">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-prd-scs-quest.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_quest_prd</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_account_local" uuid="c1768eee-5d75-460a-9472-4af0cea79f38">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres_account_local</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_account_dev" uuid="483e1899-7862-47d3-9a3f-a6f657cbb037">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-dev-scs-account.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_account_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_quest_local" uuid="d8fe1924-80b3-4c0a-ae64-2c81ac63ecc8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5433/postgres_questionnaire_local</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_account_qa" uuid="7ebe28fa-74c2-4744-9f6b-5526934ee358">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-qa-scs-account.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_account_qa</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="inx_account_prod" read-only="true" uuid="32e585bc-9431-47aa-8f18-e1dd6b21d108">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-prd-scs-account.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_account_prd</jdbc-url>
+    </data-source>
+  </component>
+</application>
