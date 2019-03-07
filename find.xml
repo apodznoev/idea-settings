@@ -30,12 +30,12 @@
     <mask>!*java</mask>
     <mask>*xml</mask>
     <mask>*ts</mask>
-    <mask>*properties</mask>
     <mask>*Flow*java</mask>
     <mask>*spec.ts</mask>
     <mask>*html</mask>
     <mask>pom.xml</mask>
     <mask>*sql</mask>
     <mask>*java</mask>
+    <mask>*properties</mask>
   </component>
 </application>
