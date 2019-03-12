@@ -50,5 +50,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-qa-scs-quest.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_quest_qa</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="inx_riskmethods_local" uuid="18d61de1-61ff-4ce4-83fd-b144f0b99a5c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5434/postgres_riskmethods_local</jdbc-url>
+    </data-source>
   </component>
 </application>
