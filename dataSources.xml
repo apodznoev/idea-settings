@@ -64,7 +64,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-prd-scs-riskmethods.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_riskmethods_prd</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="inx_riskmethods_qa" read-only="true" uuid="4ce3d317-6fa0-410c-9475-0f1115c4d785">
+    <data-source source="LOCAL" name="inx_riskmethods_qa" uuid="4ce3d317-6fa0-410c-9475-0f1115c4d785">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
