@@ -57,7 +57,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5434/postgres_riskmethods_local</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="inx_riskmethods_prod" read-only="true" uuid="e817e962-c281-46ef-9155-62ebf2246916">
+    <data-source source="LOCAL" name="inx_riskmethods_prod" uuid="e817e962-c281-46ef-9155-62ebf2246916">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
