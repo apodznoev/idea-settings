@@ -38,7 +38,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://rds-postgres-inx-euw1-qa-scs-account.cv38zikxznre.eu-west-1.rds.amazonaws.com:5432/inx_account_qa</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="inx_account_prod" read-only="true" uuid="32e585bc-9431-47aa-8f18-e1dd6b21d108">
+    <data-source source="LOCAL" name="inx_account_prod" uuid="32e585bc-9431-47aa-8f18-e1dd6b21d108">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
