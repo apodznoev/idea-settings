@@ -3,89 +3,43 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/gym_rest.git" />
+          <option name="url" value="git@bosch-gitlab.centersight.io:bosch/bosch-mec-remote.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/sprint" />
+          <option name="url" value="git@bosch-gitlab.centersight.io:bosch/bosch-mec-remote-documentation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="file://C:/tmp" />
+          <option name="url" value="git@gitlab.device-insight.com:bosch/bosch-mec-remote.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/nbaadvisor.git" />
+          <option name="url" value="git@gitlab.device-insight.com:bosch/bosch-cbc-mock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/nbaadvisor" />
+          <option name="url" value="git@gitlab.device-insight.com:bosch/bosch-openvpn-mock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/ttt" />
+          <option name="url" value="git@gitlab.device-insight.com:bosch/bosch-mprm-mock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/spring-security-test" />
+          <option name="url" value="git@gitlab.device-insight.com:bosch/bosch-environment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/springboot-security-probe" />
+          <option name="url" value="https://github.com/apodznoev/aws-lambda-telegram.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/home/andrei.podznoev/ttt4" />
+          <option name="url" value="https://github.com/apodznoev/telegram-lambda-polly-webhookbot.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/ttt4" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/hackatum2017" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mvpjava/springboot-JUnit5-tutorial" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/my-tour-of-heroes.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/springboot-security-probe.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/azure-datalake-workshop.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://andrei.podznoev@git.btelligent.com:/opt/gitserver/dqm2" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/apodznoev/booking-be.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/comsysto/comsysto.github.io.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="apodznoev-inext" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/labs" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
   </component>
 </application>

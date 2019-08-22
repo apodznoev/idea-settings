@@ -1,11 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile-release-pipeline" type="Jenkins file" />
+      <mapping pattern="*.sh.j2" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="jenkinsfile" type="Groovy" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="sdsd" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev-blau-compendium" type="PLAIN_TEXT" />
+      <mapping pattern="modules" type="PLAIN_TEXT" />
       <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
+      <mapping ext="confi" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="template" type="Properties" />
       <mapping pattern="ExternalModuleValue" type="TypeScript" />
       <mapping pattern="ShopApplicationLocalStarterCSS" type="XML" />
     </extensionMap>

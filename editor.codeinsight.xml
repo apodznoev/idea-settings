@@ -2,4 +2,5 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="bosch" />
 </application>
