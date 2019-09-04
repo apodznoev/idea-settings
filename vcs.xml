@@ -42,6 +42,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="apodznoev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bosch-gitlab.centersight.io" />
+          <option name="userName" value="apo-ext" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/labs" />
