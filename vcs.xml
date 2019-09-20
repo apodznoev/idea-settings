@@ -54,4 +54,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/device-insight/repos" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/device-insight" />
+  </component>
 </application>
