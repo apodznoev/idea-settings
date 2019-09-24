@@ -10,6 +10,7 @@
       <mapping pattern=".env.dev-blau-compendium" type="PLAIN_TEXT" />
       <mapping pattern="modules" type="PLAIN_TEXT" />
       <mapping pattern="components" type="PLAIN_TEXT" />
+      <mapping pattern="notificationAggregation" type="PLAIN_TEXT" />
       <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
       <mapping ext="confi" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
