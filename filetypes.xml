@@ -13,6 +13,7 @@
       <mapping pattern="notificationAggregation" type="PLAIN_TEXT" />
       <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
       <mapping ext="confi" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="j2_fixed" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
