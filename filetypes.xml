@@ -14,6 +14,7 @@
       <mapping pattern="components" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="build-me-with-k" type="PLAIN_TEXT" />
+      <mapping pattern="getLatestLegalDocs" type="PLAIN_TEXT" />
       <mapping ext="confi" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
