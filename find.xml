@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*ts" />
     <mask>pom-xml</mask>
     <mask>*.ftl</mask>
     <mask>*Integration*.java</mask>
@@ -18,7 +19,6 @@
     <mask>!pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*ts</mask>
     <mask>*Flow*java</mask>
     <mask>*spec.ts</mask>
     <mask>*html</mask>
@@ -33,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>!*java</mask>
+    <mask>*ts</mask>
   </component>
 </application>
