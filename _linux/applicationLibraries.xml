@@ -98,7 +98,9 @@
         <root url="jar:///usr/share/groovy/lib/asm.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-2.4.16-sources.jar!/" />
+      </SOURCES>
     </library>
     <library name="Python 3.6 (swarm) interpreter library">
       <CLASSES>
